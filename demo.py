@@ -1,4 +1,4 @@
 print("hello")
 print("World")
-i=0
+i=3
 print(i)
